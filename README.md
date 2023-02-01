@@ -7,16 +7,15 @@ Repository to refactor code based on ITAM MSc in Data Science assignement from L
 Requirements
 All scrpts are based on python langaguage greater than 3.1 version, the only strict requirement is to have at least 1.2.0 scklearn version.
 
-Data
+Data 
 Data can be downloaded from Kaggle: www.kaggle.com
 
-Repo Structure
-
-data: files from train and test in csv format.
-plots: plots from eda
-msc: empty
-results: predictions in csv format
-src: Four .py scripts to explore, clean, process and predict.
+RepoStructure
+- data: files from train and test in csv format.
+- plots: plots from eda
+- msc: empty
+- results: predictions in csv format
+- src: Four .py scripts to explore, clean, process and predict.
 
 Usage
 Main .py file will call the other modules and just be sure to have files in the same folder.
