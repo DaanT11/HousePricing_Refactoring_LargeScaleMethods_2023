@@ -1,0 +1,9 @@
+root - INFO - Train shape: (1460, 81)
+root - INFO - Test shape: (1459, 80)
+numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+root - INFO - The scikit-learn version is 1.2.1.
+root - INFO - Mean score from cross-validation: 0.8391232362653523
+root - INFO - Train shape: (1460, 81)
+root - INFO - Test shape: (1459, 80)
+root - INFO - The scikit-learn version is 1.2.1.
+root - INFO - Mean score from cross-validation: 0.8363390102234727
