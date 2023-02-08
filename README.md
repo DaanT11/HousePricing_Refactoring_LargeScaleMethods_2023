@@ -16,6 +16,7 @@ Data can be downloaded from Kaggle: www.kaggle.com
 - msc: empty
 - results: predictions in csv format
 - src: Four .py scripts to explore, clean, process and predict.
+- logs: has the log file to catch errors and info.
 
 ## Usage
 Main .py file will call the other modules and just be sure to have files in the same folder.
