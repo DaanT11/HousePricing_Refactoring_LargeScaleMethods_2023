@@ -7,6 +7,9 @@ Repository to refactor code based on ITAM MSc in Data Science assignement from L
 ## Requirements
 All scrpts are based on python langaguage greater than 3.1 version, the only strict requirement is to have at least 1.2.0 scklearn version.
 
+Review the environments.yaml file to use with conda. Use the following command to re-create the current project conda environment:
+conda env create --file environments.yaml
+
 ## Data 
 Data can be downloaded from Kaggle: www.kaggle.com
 
